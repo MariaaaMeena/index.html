@@ -2,6 +2,7 @@ h1{
     text-align: center;
     font-style: italic;
     color:#a85632 ;
+    font-family: 'Pacifico', cursive; 
 }
 .pre{
 text-align: center;
@@ -20,6 +21,16 @@ background-color: rgb(167, 163, 142);
     float:left;
     font-family: 'Dancing Script', cursive; 
 }
+.blog5{
+    border: 2;
+    border radius: 1; 
+    margin-left: 60;
+    margin-right: 40;
+    margin-top: 30;
+    width: 33%;
+    float:left;
+    font-family: 'Dancing Script', cursive;
+}
 body{
     background-color: khaki;
 }
@@ -28,7 +39,7 @@ body{
     border radius: 1; 
     margin-left: 60;
     margin-right: 40;
-    margin-top: 10;
+    margin-top: 30;
     float:left;
     width: 33%;
     padding: 50;
@@ -45,5 +56,5 @@ body{
     font-family: 'Dancing Script', cursive;
 }
 h2{
-    background-color:#328da8;
+    background-color:#55926e;
 }
